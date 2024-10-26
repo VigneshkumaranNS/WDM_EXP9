@@ -2,6 +2,7 @@
 ### DATE: 24/08/2024
 ### AIM: To implement preprocessing technique on Twitter Data using Rapidminer
 ### Reg No: 212222230171
+### NAME: Vignesh Kumaran N S
 ### Description: 
 <div align = "justify">
 RapidMiner provides data mining and machine learning procedures including: data loading and transformation (ETL), data preprocessing and visualization, 
