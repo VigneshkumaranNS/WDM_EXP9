@@ -1,5 +1,5 @@
 ### EX 9 Preprocessing on Twitter Data using Rapidminer
-### DATE: 24/08/2024
+### DATE: 
 ### AIM: To implement preprocessing technique on Twitter Data using Rapidminer
 ### Reg No: 212222230171
 ### NAME: Vignesh Kumaran N S
